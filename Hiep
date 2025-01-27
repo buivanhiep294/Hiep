@@ -218,6 +218,6 @@ Tab4:AddButton({
 Tab4:AddButton({
    Name = "Redz Hub",
    Callback = function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/RedZLoader/RedZPremium/refs/heads/main/RedZ',true))()
-    end
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+     end
 })
